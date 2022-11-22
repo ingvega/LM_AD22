@@ -1,0 +1,29 @@
+
+iterate(cuantas repeticiones) ->
+for(Declaración e inicialización de variable de control;
+    Condición de parada;
+    Manipulación de variable de control)
+
+
+for(int i=1;i<=5;i++){
+    printf("Num %d",i);
+}
+
+
+while(condicion)
+
+while(true)
+
+Rompimiento de ciclos break
+
+
+
+
+
+
+
+
+
+
+//Imprimir los números del 1 al 20
+//Solicitar un valor que esté dentro de un rango
